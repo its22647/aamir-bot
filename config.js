@@ -53,19 +53,19 @@ global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '94764497078' //Nomor Bot
-global.nomorown = '94764497078' //Nomor Owner
-global.namebot = 'WA-MD-v1' //Nama Bot
-global.nameown = 'sandaru' // Nama Owner
+global.nomorbot = '923051038557' //Nomor Bot
+global.nomorown = '923051038557' //Nomor Owner
+global.namebot = 'CRAFTY-PANDA-MD-v1' //Nama Bot
+global.nameown = 'MUBASHIR' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['94764497078', 'sandaru', true] //Replace your number with your name
+  ['923051038557', 'MUBASHIR', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923470027813','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['923051038557','923462344903'] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
@@ -97,24 +97,24 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 wa-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘sandaru- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'wa-ᴍᴅ-ᴠ𝟷'
+global.wm = '「 CRAFTY-PANDA-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MUBASHIE- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'CRAFTY-PANDA-ᴍᴅ-ᴠ𝟷'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = '🎋 ┊  ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
-global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
+global.logo = 'https://i.imgur.com/nIeNSSz.jpeg'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/cc8jfkX/01.jpg' //Main Thumbnail
-global.thumb2 = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.thumbbc = 'https://i.ibb.co/cc8jfkX/01.jpg' //For broadcast
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumblvlup = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.hwaifu = ['https://i.ibb.co/cc8jfkX/01.jpg']
+global.thumb = 'https://i.imgur.com/nIeNSSz.jpeg' //Main Thumbnail
+global.thumb2 = 'https://i.imgur.com/nIeNSSz.jpeg'
+global.thumbbc = 'https://i.imgur.com/nIeNSSz.jpeg' //For broadcast
+global.giflogo = 'https://i.imgur.com/nIeNSSz.jpeg'
+global.thumblvlup = 'https://i.imgur.com/nIeNSSz.jpeg'
+global.hwaifu = ['https://i.imgur.com/nIeNSSz.jpeg']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -130,7 +130,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+94 76 449 7078'
+global.phn = '+923051038557'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -170,8 +170,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
+global.stickpack = 'x_MASTER-CRAFTY_x'
+global.stickauth = `「 CRAFTY-PANDA-ᴍᴅ-ᴠ𝟷 」`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
 global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ bot'
 
