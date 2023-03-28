@@ -21,7 +21,7 @@ Age : ${cekusia}
 Zodiac : ${zodiac}
 
 
-ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813
+mubashir-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +923051038557
 `.trim()
     m.reply(teks)
 }
