@@ -7,11 +7,11 @@ let teks = `┏ ┅ ━━━━━━━━━ ┅ ➔
 ┃ 
 ┃ 📽️ Yᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ 📽️
 ┃ 
-┃  *youtube.com/@SANDARU-YT*
+┃  *https://youtube.com/@mubashirriaz001*
 ┃ 
 ┃ 📟 Cᴏɴᴛᴀᴄᴛ Mᴇ ᴏɴ Wʜᴀᴛsᴀᴘᴘ 📟
 ┃
-┃   *http://wa.me/15517868003*
+┃   *http://wa.me/923051038557*
 ┃
 ┃🔰 *ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ xᴄᴏᴄᴏ*🔰
 ┗ ┅ ━━━━━━━━━ ┅ ━➔`
