@@ -3,16 +3,16 @@ let handler = async (m, { conn }) => {
   let caption = `
 ╭────═[WA-MD-v1]═────⋆
 │╭───────────────···
-┴│☂︎    HEY ${conn.getName(m.sender)}
+┴│☂︎    HEY ${conn.getName(m.mubashir)}
 ⬡│☂︎ 🤪I\'m alive now..🥰
 ┬╰────────────────···
 ┠─────═[ INFO BOT ]═─────⋆
 │╭────────────────···
-┴│            *Wa-MD-v1*
+┴│            *Crafty-Panda-MD-v1*
 ⬡│☂︎ *WHATSAPP BOT CODED BY👇🏽*
-⬡│☂︎           *SANDARU*
+⬡│☂︎           *Mubashir*
 ⬡│☂︎           *OWNER:👇🏽*
-⬡│☂︎ *wa.me/94764497078*
+⬡│☂︎         *wa.me/923051038557*
 ⬡│☂︎ *Don\'t call owner or you will be*
 ⬡│☂︎ *Ignored or blocked without*
 ⬡│☂︎           *warning 🥴😹*
@@ -27,7 +27,7 @@ let handler = async (m, { conn }) => {
 ┬│☂︎ .gimage *Google image downloader*
 │╰────────────────···
 ╰──────────═┅═───────
-*Thanks For Using Wa-MD-v1 ✍🏽🌿🥰*
+*Thanks For Using crafty-panda-MD-v1 ✍🏽🌿🥰*
 `.trim()
   m.reply(caption)
 }
