@@ -301,8 +301,8 @@ let tek = `✧────···[ Dashboard ]···────✧
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* User Banned
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
-│ ▸ *ᴀᴜᴛʜᴏʀ :* Ahmad Ali
-┴ ▸ *ᴏᴡɴᴇʀ :* xIKRATOSx
+│ ▸ *ᴀᴜᴛʜᴏʀ :Crafty Panda
+┴ ▸ *ᴏᴡɴᴇʀ :* Mubashir Riaz
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ Give me a break, Bro ^ω^
@@ -312,7 +312,7 @@ const listMessage = {
   footer: wm2,
   mentions: await conn.parseMention(tek),
   title: ``,
-  buttonText: `CLICK ⎙`, 
+  buttonText: `yahan Clik hair ⎙`, 
   sections
 }
   if (teks == '404') {
