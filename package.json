@@ -1,5 +1,5 @@
 {
-    "name": "Ikratos-MD-v1",
+    "name": "Crafty-panda-MD-v1",
     "version": "3.3.0",
     "description": "RPG BOT Whatsapp",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/xIKRATOSx/Ikratos-MD-v1",
+    "homepage": "https://github.com/Craftypanda001/mubashir-Wa-Bot-MD-v1",
     "author": {
         "name": "xIKRATOSx"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/xIKRATOSx/Ikratos-MD-v1.git"
+        "url": "git+https://github.com/Craftypanda001/mubashir-Wa-Bot-MD-v1"
     },
     "bugs": {
-        "url": "https://github.com/xIKRATOSx/Ikratos-MD-v1/issues"
+        "url": "https://github.com/Craftypanda001/mubashir-Wa-Bot-MD-v1"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
