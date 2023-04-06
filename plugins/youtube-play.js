@@ -36,7 +36,7 @@ if (!text) throw 'Input Query'
 👁️ *Views:* ${viewH}
   `
   let buttons = [{ buttonText: { displayText: '🎶 Audio' }, buttonId: `${usedPrefix}opta ${url}` }, { buttonText: { displayText: '🎥 Video' }, buttonId: `${usedPrefix}optv ${url}` }]
-  let msg = await conn.sendMessage(m.chat, { image: { url: thumbnail }, caption: capt, footer: '_ᴡʰᵃᵗˢᵃᵖᵖ 𝔹OT 🇧 🇾  Mubashir Riaz ×͜× Master Panda_', buttons }, { quoted: m })
+  let msg = await conn.sendMessage(m.chat, { image: { url: thumbnail }, caption: capt, footer: '_♨♨ 𝐵𝑜𝑡 𝑏𝑦: 𝐴𝑎𝑚𝑖𝑟 ♨♨_', buttons }, { quoted: m })
   // if (durationS > 4000) return conn.sendMessage(m.chat, { text: `*Download:* ${await shortUrl(ytLink)}\n\n_Duration too long..._` }, { quoted: msg })
 }
 
