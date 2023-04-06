@@ -301,18 +301,18 @@ let tek = `✧────···[ Dashboard ]···────✧
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* User Banned
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
-│ ▸ *ᴀᴜᴛʜᴏʀ :Crafty Panda
-┴ ▸ *ᴏᴡɴᴇʀ :* Mubashir Riaz
+│ ▸ *ᴀᴜᴛʜᴏʀ :🅐🅐🅜🅘🅡
+┴ ▸ *ᴏᴡɴᴇʀ :* 𝐀𝐀𝐌𝐈𝐑
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
-│ Give me a break, Bro ^ω^
+│ »»————- ɓσƭ ɓყ: ααɱเɾ ————-««^ω^
 ╰━━━━━━━━━━━━━━━━┈─◂`
 const listMessage = {
   text: tek,
   footer: wm2,
   mentions: await conn.parseMention(tek),
   title: ``,
-  buttonText: `yahan Clik hair ⎙`, 
+  buttonText: `Click here ⎙`, 
   sections
 }
   if (teks == '404') {
@@ -448,7 +448,7 @@ const listMessage = {
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: `Hai Sis ${name}!`, 
+    message: `Hello ${name}!`, 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch(flaaa + 'Menu')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
@@ -466,14 +466,14 @@ const listMessage = {
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: '[❗] Loading Menu ' + teks + '...\n Be patient Sis ^ω^', 
+    message: '[❗] Loading Menu ' + teks + '...\n Be patient ^ω^', 
     orderTitle: `▮Menu ▸`,
     thumbnail: await (await fetch(flaaa + 'Loading')).buffer(), //Gambarnye
     sellerJid: '0@s.whatsapp.net' 
     }
     }
     }
-    conn.reply(m.chat, '*Wait a minute Sis. . .*', ftrol) 
+    conn.reply(m.chat, '*Wait a minute....*', ftrol) 
     
     //------------------< MENU >----------------
     
@@ -531,7 +531,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://github.com/ImYanXiao/Elaina-MultiDevice'
+                        url: 'https://github.com/its22647/aamir-bot'
                     }
                 },
                 {
