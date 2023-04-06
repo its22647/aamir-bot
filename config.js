@@ -5,7 +5,7 @@
 // • Rominaru
 // • Kannachann
 // • FahriAdison
-// • The.Sad.Boy01
+// • The.Sad.Bot 01
 // • Rlxfly
 // • Rasel comel
 // • ImYanXiao
@@ -41,31 +41,31 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
-global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
+global.sig = 'https://instagram.com/a2a2m6i4r7' //Link Instagrammu
+global.sgh = 'https://github.com/its22647' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = 'Contact me' //Nomor Danamu
+global.ppulsa = 'Contact me' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '923051038557' //Nomor Bot
-global.nomorown = '923051038557' //Nomor Owner
-global.namebot = 'CRAFTY-PANDA-MD-v1' //Nama Bot
-global.nameown = 'MUBASHIR' // Nama Owner
+global.nomorbot = '923426616129' //Nomor Bot
+global.nomorown = '923351483179' //Nomor Owner
+global.namebot = '┈━═☆ 𝑰𝒕'𝒔  𝑨𝒂𝒎𝒊𝒓 ☆═━┈' //Nama Bot
+global.nameown = '𝐀𝐀𝐌𝐈𝐑' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923051038557', 'MUBASHIR', true] //Replace your number with your name
+  ['923351483179', '𝐀𝐀𝐌𝐈𝐑', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923051038557','923462344903'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['923351483179','923426616129'] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
@@ -97,24 +97,24 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 CRAFTY-PANDA-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MUBASHIE- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'CRAFTY-PANDA-ᴍᴅ-ᴠ𝟷'
+global.wm = '┈━═☆ 𝑰𝒕'𝒔  𝑨𝒂𝒎𝒊𝒓 ☆═━┈' //Main Watermark
+global.wm2 = '★彡 𝐀𝐀𝐌𝐈𝐑 彡★'
+global.wm3 = '-─═┳︻ 𝑨𝑨𝑴𝑰𝑹 ︻┳═─-'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = '🎋 ┊  ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
-global.logo = 'https://i.imgur.com/nIeNSSz.jpeg'
+global.logo = 'https://i.imgur.com/kRxl23S.jpeg'
 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.imgur.com/nIeNSSz.jpeg' //Main Thumbnail
-global.thumb2 = 'https://i.imgur.com/nIeNSSz.jpeg'
-global.thumbbc = 'https://i.imgur.com/nIeNSSz.jpeg' //For broadcast
-global.giflogo = 'https://i.imgur.com/nIeNSSz.jpeg'
-global.thumblvlup = 'https://i.imgur.com/nIeNSSz.jpeg'
-global.hwaifu = ['https://i.imgur.com/nIeNSSz.jpeg']
+global.thumb = 'https://i.imgur.com/kRxl23S.jpeg' //Main Thumbnail
+global.thumb2 = 'https://i.imgur.com/kRxl23S.jpeg'
+global.thumbbc = 'https://i.imgur.com/kRxl23S.jpeg' //For broadcast
+global.giflogo = 'https://i.imgur.com/kRxl23S.jpeg'
+global.thumblvlup = 'https://i.imgur.com/kRxl23S.jpeg'
+global.hwaifu = ['https://i.imgur.com/kRxl23S.jpeg']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -126,11 +126,11 @@ global.flaaa = [
 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='] 
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
+global.wait = '⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎... ⋙'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+923051038557'
+global.phn = '+923351483179'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -140,11 +140,11 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://i.imgur.com/nIeNSSz.jpeg'
+global.thumbdoc = 'https://i.imgur.com/v8meipr.jpeg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '5644' // default 10TB
-global.fpagedoc = '999'
+global.fsizedoc = '10 TB' // default 10TB
+global.fpagedoc = '999999'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
@@ -170,10 +170,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_MASTER-CRAFTY_x'
-global.stickauth = `「 CRAFTY-PANDA-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ bot'
+global.stickpack = '-─═┳︻ 𝑨𝑨𝑴𝑰𝑹 ︻┳═─-'
+global.stickauth = `-─═┳︻ 𝑨𝑨𝑴𝑰𝑹 ︻┳═─-`
+global.packname = '𝑴𝒂𝒅𝒆 𝒃𝒚'
+global.packname2 = '𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐀𝐀𝐌𝐈𝐑'
 
 global.multiplier = 38 // The higher, The harder levelup
 
