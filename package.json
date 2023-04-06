@@ -1,5 +1,5 @@
 {
-    "name": "Crafty-panda-MD-v1",
+    "name": "┈━═☆ 𝑰𝒕'𝒔  𝑨𝒂𝒎𝒊𝒓 ☆═━┈",
     "version": "3.3.0",
     "description": "RPG BOT Whatsapp",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Craftypanda001/mubashir-Wa-Bot-MD-v1",
+    "homepage": "https://github.com/its22647/aamir-bot",
     "author": {
-        "name": "xIKRATOSx"
+        "name": "★彡 𝐀𝐀𝐌𝐈𝐑 彡★"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Craftypanda001/mubashir-Wa-Bot-MD-v1"
+        "url": "git+https://github.com/its22647/aamir-bot"
     },
     "bugs": {
-        "url": "https://github.com/Craftypanda001/mubashir-Wa-Bot-MD-v1"
+        "url": "https://github.com/its22647/aamir-bot"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
